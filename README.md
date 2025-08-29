@@ -19,4 +19,4 @@ Saya menerima data pesanan dari berbagai sumber (form, marketplace, email). Data
 - Total revenue: Rp1.045.000
 - Laporan ringkas memudahkan manajer mengetahui jumlah pending payment & channel terbaik
 
-![alt text](?raw=true)
+![alt text]https://github.com/christysaragih/Data-Entry-/blob/main/dataentry.png(?raw=true)
