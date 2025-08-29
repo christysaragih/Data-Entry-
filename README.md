@@ -1,6 +1,4 @@
-# Dummy Project Data Entry
-
-## Data Entry & Cleaning Project -- E-commerce Orders
+# Data Entry & Cleaning Project -- E-commerce Orders
 
 ### 📝 Description:
 I received customer order data from multiple sources (online form, marketplace export, and email). The raw data contained inconsistencies such as different date formats, duplicate records, uppercase emails, and missing payment statuses. My role was to consolidate the data, clean and validate it, and create a summary report for decision-making.
