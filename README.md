@@ -18,3 +18,5 @@ Saya menerima data pesanan dari berbagai sumber (form, marketplace, email). Data
 - Ditemukan 8% data bermasalah, semua diperbaiki & terdokumentasi di Validation Log
 - Total revenue: Rp1.045.000
 - Laporan ringkas memudahkan manajer mengetahui jumlah pending payment & channel terbaik
+
+![alt text](?raw=true)
