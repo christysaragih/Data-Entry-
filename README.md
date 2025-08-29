@@ -1,6 +1,6 @@
-# Data Entry & Cleaning Project
+# Dummy Project Data Entry
 
-## Tools: Microsoft Excel
+## Data Entry & Cleaning Project -- E-commerce Orders
 
 ### 📝 Deskripsi:
 Saya menerima data pesanan dari berbagai sumber (form, marketplace, email). Data ini masih berantakan (format tanggal berbeda, email tidak konsisten, duplikat, dan missing values). Tugas saya adalah menggabungkan, membersihkan, dan membuat ringkasan laporan penjualan.
