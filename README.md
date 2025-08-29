@@ -1,4 +1,4 @@
-# Data Entry
+# Data Entry & Cleaning Project - E-commerce Orders
 
 ## Tools: Microsoft Excel
 
