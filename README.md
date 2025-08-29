@@ -19,5 +19,3 @@ I received customer order data from multiple sources (online form, marketplace e
 - Detected and corrected ~8% inconsistent entries
 - Produced a clear summary report that shows total revenue, pending payments, and top-selling channels
 - Delivered final files including master_orders.xlsx, ValidationLog, and a summary report ready for stakeholders
-
-![alt text](https://github.com/christysaragih/Data-Entry-/blob/main/dataentry.png?raw=true)
